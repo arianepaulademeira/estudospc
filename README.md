@@ -1,0 +1,2 @@
+# estudospc
+penasmento computacional 
